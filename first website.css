@@ -1,0 +1,230 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: cornflowerblue;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+}
+h1{
+  margin: 0;
+  margin-left: 10px;
+  text-shadow: 1px 1px 1px black;
+}
+.contents ul{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    width: 900px;
+    
+}
+
+a:active{
+    color: coral;
+}
+.contents ul li a:hover{
+    border-bottom: solid blue 2px;
+    height: 10px;
+
+}
+.contents ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    display: inline;
+} 
+
+
+main{
+    background-color: whitesmoke;
+    height: 3100px;
+    padding: 0;
+    margin: 0;
+}
+h3{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    text-shadow: 3px 3px 3px black;
+}
+h2{
+    color: black;
+    font-size:100px;
+    text-align: center;
+    text-shadow: 4px 4px 4px black;
+
+}
+h4{
+    font-size:50px;
+    color: black;
+    text-shadow: 2px 2px 2px black;
+    margin-left: 20px;
+}
+h5{
+    font-size: 25px;
+    color: black;
+    margin-left: 40px;
+
+}
+.imagegen{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.container{
+    display: block;
+
+}
+.description{
+    padding: 20px;
+    display: inline-block;
+}
+.one{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/one.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+
+
+}
+
+.two{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/two.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.three{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/three.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.four{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/four.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.five{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/five.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.six{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/six.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.seven{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/seven.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.eight{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/one.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nine{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/nine.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ten{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/ten.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.eleven{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/eleven.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.twelve{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/twelve.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.fourteen{
+    margin: 5px;
+    height: 450px;
+    width: 350px;
+    background-image: url("images/fourteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+footer{
+    height: 300px;
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+}
+h6{
+    text-align: center;
+    font-size: 30px;
+}
+span{
+    font-size: 20px;
+}
