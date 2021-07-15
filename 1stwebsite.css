@@ -5,11 +5,17 @@ body{
 
 header{
     background-color: cornflowerblue;
-    height: 100px;
+    height: 90px;
     display: flex;
     justify-content: space-between;
     width: 100%;
     position: fixed;
+    margin: auto;
+    flex-direction: column;
+}
+.bckgrndpic{
+    background-image: url(pictures/images/images/one.jpg);
+    padding: 100%;
 }
 h1{
   margin: 0;
@@ -42,7 +48,9 @@ ul{
     list-style-type: none;
     display: inline;
 } 
-
+.container:hover{
+    border: 1px solid;
+}
 
 main{
     background-color: whitesmoke;
@@ -77,18 +85,17 @@ h5{
 
 }
 .imagegen{
-    display: flex;
+    display:flex;
     justify-content: space-around;
+    
 
 }
-
-
 .container{
     display: block;
 
 }
 .description{
-    padding: 20px;
+    padding: 0px;
     display: inline-block;
 }
 .one{
@@ -98,7 +105,7 @@ h5{
     background-image: url("pictures/images/one.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    display: block;
+    
 }
 
 .two{
@@ -261,3 +268,4 @@ h6{
 span{
     font-size: 20px;
 }
+
