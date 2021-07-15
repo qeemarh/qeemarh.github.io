@@ -95,7 +95,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/one.jpg");
+    background-image: url("pictures/images/one.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -107,7 +107,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/two.jpg");
+    background-image: url("pictures/images/two.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -117,7 +117,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/three.jpg");
+    background-image: url("pictures/images/three.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -126,7 +126,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/four.jpg");
+    background-image: url("pictures/images/four.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -146,7 +146,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/six.jpg");
+    background-image: url("pictures/images/six.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -156,7 +156,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/seven.jpg");
+    background-image: url("pictures/images/seven.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -165,7 +165,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/one.jpg");
+    background-image: url("pictures/images/one.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -174,7 +174,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/nine.jpg");
+    background-image: url("pictures/images/nine.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -183,7 +183,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/ten.jpg");
+    background-image: url("pictures/images/ten.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -192,7 +192,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/eleven.jpg");
+    background-image: url("pictures/images/eleven.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -210,7 +210,7 @@ h5{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("images/fourteen.jpg");
+    background-image: url("pictures/images/fourteen.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
