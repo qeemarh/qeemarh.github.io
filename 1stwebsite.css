@@ -93,49 +93,42 @@ h5{
 }
 .one{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/one.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-
-
 }
 
 .two{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/two.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
-
 .three{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/three.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 .four{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/four.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
-
 .five{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("images/five.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,77 +137,117 @@ h5{
 
 .six{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/six.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
-
 .seven{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/seven.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 .eight{
     margin: 5px;
     height: 450px;
     width: 350px;
-    background-image: url("pictures/images/one.jpg");
+    background-image: url("pictures/images/eight.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .nine{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/nine.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 .ten{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/ten.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 .eleven{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/eleven.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 .twelve{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/twelve.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
+}
+.thirteen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/thirteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .fourteen{
     margin: 5px;
-    height: 450px;
-    width: 350px;
+    height: 350px;
+    width: 250px;
     background-image: url("pictures/images/fourteen.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
+.fifteen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/fifteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sixteen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/sixteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.seventeen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/seventeen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.eighteen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/eighteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nineteen{
+    margin: 5px;
+    height: 350px;
+    width: 250px;
+    background-image: url("pictures/images/nineteen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 footer{
     height: 300px;
     background-color: black;
