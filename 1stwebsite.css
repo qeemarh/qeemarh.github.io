@@ -272,10 +272,10 @@ span{
     @media only screen and (max-width: 500px){
     header{
         background-color: cornflowerblue;
-        height: 45px;
+        height: 50px;
         display: flex;
         justify-content: space-between;
-        width: 50%;
+        width: 10%;
         position: fixed;
         margin: auto;
         flex-direction: column;
@@ -284,7 +284,7 @@ span{
         display: flex;
         justify-content: space-between;
         margin-right: 15px;
-        width: 450px;
+        width: 10%;
         
     }
 }
