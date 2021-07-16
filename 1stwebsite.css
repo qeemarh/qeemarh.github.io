@@ -269,3 +269,22 @@ span{
     font-size: 20px;
 }
 
+    @media only screen and (max-width: 500px){
+    header{
+        background-color: cornflowerblue;
+        height: 45px;
+        display: flex;
+        justify-content: space-between;
+        width: 50%;
+        position: fixed;
+        margin: auto;
+        flex-direction: column;
+    }
+    .contents ul{
+        display: flex;
+        justify-content: space-between;
+        margin-right: 15px;
+        width: 450px;
+        
+    }
+}
