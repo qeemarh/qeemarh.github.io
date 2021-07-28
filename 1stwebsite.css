@@ -13,10 +13,7 @@ header{
     margin: auto;
     flex-direction: column;
 }
-.bckgrndpic{
-    background-image: url(pictures/images/images/one.jpg);
-    padding: 100%;
-}
+
 h1{
   margin: 0;
   margin-left: 10px;
@@ -275,7 +272,7 @@ span{
         height: 50px;
         display: flex;
         justify-content: space-between;
-        width: 10%;
+        width: 60%;
         position: fixed;
         margin: auto;
         flex-direction: column;
